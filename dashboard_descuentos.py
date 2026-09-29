@@ -271,7 +271,7 @@ periodos = sorted(
 # PANEL DE FILTROS
 # ============================================================
 
-st.markdown(r"### 📍 ")
+st.markdown(r"")
 
 
 filtro1, filtro2, filtro3, filtro4, filtro5 = st.columns(5)
